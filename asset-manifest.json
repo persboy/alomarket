@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alomarket/static/css/main.7daacaa1.css",
+    "main.js": "/alomarket/static/js/main.579a7a5a.js",
+    "index.html": "/alomarket/index.html",
+    "main.7daacaa1.css.map": "/alomarket/static/css/main.7daacaa1.css.map",
+    "main.579a7a5a.js.map": "/alomarket/static/js/main.579a7a5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7daacaa1.css",
+    "static/js/main.579a7a5a.js"
+  ]
+}
