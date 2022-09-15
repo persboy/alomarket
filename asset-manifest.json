@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/alomarket/static/css/main.7daacaa1.css",
-    "main.js": "/alomarket/static/js/main.579a7a5a.js",
+    "main.css": "/alomarket/static/css/main.88bff518.css",
+    "main.js": "/alomarket/static/js/main.2ba96a39.js",
+    "static/media/ZFInstaEF.ttf": "/alomarket/static/media/ZFInstaEF.77b0b0036b913e75db8f.ttf",
+    "static/media/ZFInsta.ttf": "/alomarket/static/media/ZFInsta.0101c9c96e39d2e0fe1a.ttf",
+    "static/media/day.ttf": "/alomarket/static/media/day.8f2965df1f5856d1ff0c.ttf",
+    "static/media/IRANYekanWebThin.ttf": "/alomarket/static/media/IRANYekanWebThin.bb11db702d797a23c84f.ttf",
+    "static/media/IRANYekanWebLight.ttf": "/alomarket/static/media/IRANYekanWebLight.6a5701c5292fa897dc96.ttf",
+    "static/media/IRANYekanWebRegular.ttf": "/alomarket/static/media/IRANYekanWebRegular.08dd10a3887d8d253b11.ttf",
+    "static/media/IRANYekanWebExtraBlack.ttf": "/alomarket/static/media/IRANYekanWebExtraBlack.48a93df7477dff676fce.ttf",
+    "static/media/IRANYekanWebExtraBold.ttf": "/alomarket/static/media/IRANYekanWebExtraBold.42b2fd6554728eef2e06.ttf",
+    "static/media/IRANYekanWebMedium.ttf": "/alomarket/static/media/IRANYekanWebMedium.7d8f2bf96b1bb941a9fb.ttf",
+    "static/media/IRANYekanWebBold.ttf": "/alomarket/static/media/IRANYekanWebBold.58298bc970c7ebf8fc83.ttf",
+    "static/media/IRANYekanWebBlack.ttf": "/alomarket/static/media/IRANYekanWebBlack.c3f42056e59e1f588f9a.ttf",
     "index.html": "/alomarket/index.html",
-    "main.7daacaa1.css.map": "/alomarket/static/css/main.7daacaa1.css.map",
-    "main.579a7a5a.js.map": "/alomarket/static/js/main.579a7a5a.js.map"
+    "main.88bff518.css.map": "/alomarket/static/css/main.88bff518.css.map",
+    "main.2ba96a39.js.map": "/alomarket/static/js/main.2ba96a39.js.map"
   },
   "entrypoints": [
-    "static/css/main.7daacaa1.css",
-    "static/js/main.579a7a5a.js"
+    "static/css/main.88bff518.css",
+    "static/js/main.2ba96a39.js"
   ]
 }
